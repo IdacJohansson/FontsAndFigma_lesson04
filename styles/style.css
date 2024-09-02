@@ -1,0 +1,20 @@
+body {
+  background-color: #98b6b1;
+}
+
+.heading {
+  color: white;
+  font-family: "Rubik", sans-serif;
+}
+
+.fa-solid{
+    color: #495D63;
+}
+
+.info-text {
+  font-family: "Montserrat", sans-serif;
+  max-width: 500px;
+  /* letter-spacing: 5px; */
+  /* line-height: 2; */
+  /* word-spacing: 5px; */
+}
